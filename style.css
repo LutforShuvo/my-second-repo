@@ -4,3 +4,8 @@ p{
 h1{
     color: brown;
 }
+h2{
+    color: white;
+    background-color: yellowgreen ;
+    width: 50%;
+}
